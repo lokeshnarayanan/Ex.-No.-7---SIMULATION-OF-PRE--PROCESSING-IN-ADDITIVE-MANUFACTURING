@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+
+![281479753-7925f299-2fef-4ea0-8349-079a49288bf7](https://github.com/lokeshnarayanan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393019/969f3f86-93a9-4bbd-b482-6ee70ad36547)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
